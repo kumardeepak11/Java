@@ -1,7 +1,7 @@
 // File: multhreading.java
 
 // Example of multithreading in Java
-public class MultithreadingExample {
+public class multithreadingExample {
 
     public static void main(String[] args) {
         // Creating threads using the Thread class

@@ -2,11 +2,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class Cookies {
+public class cookies {
     private Map<String, String> cookieStore;
 
     // Constructor to initialize the cookie store
-    public Cookies() {
+    public cookies() {
         cookieStore = new HashMap<>();
     }
 
@@ -45,7 +45,7 @@ public class Cookies {
 
     // Main method to test the functionality
     public static void main(String[] args) {
-        Cookies cookies = new Cookies();
+        cookies cookies = new cookies();
 
         // Adding cookies
         cookies.addCookie("SessionID", "abc123");

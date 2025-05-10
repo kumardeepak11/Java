@@ -16,7 +16,7 @@ class Dog extends Animal {
 }
 
 // Main class
-public class OverridingExample {
+public class overridingExample {
     public static void main(String[] args) {
         // Parent class reference pointing to parent object
         Animal animal = new Animal();

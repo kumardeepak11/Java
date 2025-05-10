@@ -1,4 +1,4 @@
-public class OverloadingExample {
+public class verloadingExample {
 
     // Method with one parameter
     public void display(int number) {
@@ -16,7 +16,7 @@ public class OverloadingExample {
     }
 
     public static void main(String[] args) {
-        OverloadingExample example = new OverloadingExample();
+        overloadingExample example = new overloadingExample();
 
         // Calling the first method
         example.display(10);

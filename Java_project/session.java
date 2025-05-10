@@ -1,12 +1,12 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Session {
+public class session {
     private String sessionId;
     private Map<String, Object> attributes;
 
     // Constructor to initialize session with a unique ID
-    public Session(String sessionId) {
+    public session(String sessionId) {
         this.sessionId = sessionId;
         this.attributes = new HashMap<>();
     }
